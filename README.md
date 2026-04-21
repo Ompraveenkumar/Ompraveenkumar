@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Om Praveen 👋
 
-<!--
-**Ompraveenkumar/Ompraveenkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+* 🎓 Aspiring Software Engineer
+* 💻 Strong in Data Structures & Algorithms
+* ⚡ Building scalable Web & AI-based applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+* **Frontend:** HTML, CSS, JavaScript, React
+* **Backend:** Node.js, Express, FastAPI
+* **Database:** MongoDB, PostgreSQL
+
+## 📌 Projects
+
+* 🤖 AI-Powered College Event Planner  
+* 💰 Smart Expense Tracker with Predictive Insights  
+
+## 📈 Coding Profiles
+
+* 🔗 LeetCode: https://leetcode.com/u/om_praveen_18/
+* 🔗 LinkedIn: https://www.linkedin.com/in/ompraveenkumard/
+
+## 📫 Contact
+
+* 📧 Email: [ompraveenkumard@gmail.com](mailto:ompraveenkumard@gmail.com)
+
+---
+
+⭐ *Always learning and building new things*
