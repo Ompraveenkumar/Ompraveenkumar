@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Om Praveen Kumar D
 
-### 🚀 Full-Stack Developer | AI Enthusiast | Cybersecurity Researcher
+### 🚀 Full-Stack Developer | AI Enthusiast 
 Building secure, scalable, and intelligent web applications using the **MERN Stack** and **Generative AI**. Open to SDE Internships and collaborative projects.
 
 ---
