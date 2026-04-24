@@ -1,31 +1,38 @@
-# Hi, I'm Om Praveen 👋
+# 👋 Hi, I'm Om Praveen Kumar D
 
-## 🚀 About Me
-
-* 🎓 Aspiring Software Engineer
-* 💻 Strong in Data Structures & Algorithms
-* ⚡ Building scalable Web & AI-based applications
-
-## 🛠 Tech Stack
-
-* **Frontend:** HTML, CSS, JavaScript, React
-* **Backend:** Node.js, Express, FastAPI
-* **Database:** MongoDB, PostgreSQL
-
-## 📌 Projects
-
-* 🤖 AI-Powered College Event Planner  
-* 💰 Smart Expense Tracker with Predictive Insights  
-
-## 📈 Coding Profiles
-
-* 🔗 LeetCode: https://leetcode.com/u/om_praveen_18/
-* 🔗 LinkedIn: https://www.linkedin.com/in/ompraveenkumard/
-
-## 📫 Contact
-
-* 📧 Email: [ompraveenkumard@gmail.com](mailto:ompraveenkumard@gmail.com)
+### 🚀 Full-Stack Developer | AI Enthusiast | Cybersecurity Researcher
+Building secure, scalable, and intelligent web applications using the **MERN Stack** and **Generative AI**. Open to SDE Internships and collaborative projects.
 
 ---
 
-⭐ *Always learning and building new things*
+## 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, HTML5, CSS3, JavaScript (ES6+), Styled Components |
+| **Backend** | Node.js, Express.js, FastAPI, Python |
+| **Database** | MongoDB, PostgreSQL |
+| **AI/ML** | Google Gemini API, Prompt Engineering |
+| **Tools** | Git, GitHub, Render, VS Code |
+
+---
+
+## 🌟 Featured Projects
+
+### 💰 [Smart Expense Tracker AI](https://github.com/Ompraveenkumar/smart-expense-tracker-ai)
+* **Tech:** MERN Stack + Gemini AI
+* **Impact:** Real-time financial coaching with secure JWT-based identity management.
+
+### 🤖 [AI-Powered College Event Planner](https://github.com/Ompraveenkumar/ai-event-planner)
+* **Tech:** MERN Stack + Gemini AI
+* **Impact:** Streamlined logistics and intelligent scheduling for campus events.
+
+---
+
+## 📊 Coding & Socials
+* **LeetCode:** [u/om_praveen_18_](https://leetcode.com/u/om_praveen_18_/)
+* **LinkedIn:** [in/ompraveenkumard](https://www.linkedin.com/in/ompraveenkumard/)
+* **Email:** [ompraveenkumard@gmail.com](mailto:ompraveenkumard@gmail.com)
+
+---
+*"Always learning and building new things."*
